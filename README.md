@@ -185,6 +185,3 @@ To avoid ongoing charges, delete the AWS resources when you are finished.
 4.  **Delete the DynamoDB table** (`Quotes`).
 5.  **Empty and delete the S3 bucket**.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
