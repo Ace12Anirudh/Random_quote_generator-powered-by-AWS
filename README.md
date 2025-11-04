@@ -1,1 +1,0 @@
-# Random_quote_generator-powered-by-AWS

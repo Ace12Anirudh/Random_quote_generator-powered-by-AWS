@@ -1,0 +1,3 @@
+# Boto3 is included in the AWS Lambda runtime,
+# but it's good practice to list it for local development and testing.
+boto3
